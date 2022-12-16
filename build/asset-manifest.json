@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d78f1613.css",
+    "main.js": "/static/js/main.185b6d0c.js",
+    "static/media/Inter-Medium.ttf": "/static/media/Inter-Medium.6dcbc9bed1ec438907ee.ttf",
+    "static/media/Canela-Medium.otf": "/static/media/Canela-Medium.108a19d0523fa74f8400.otf",
+    "static/media/Logo.svg": "/static/media/Logo.8ac1be834ab98d3ebcb00711a3a5a9a6.svg",
+    "index.html": "/index.html",
+    "static/media/Arrow.svg": "/static/media/Arrow.63a3ba97b2d35643be92c4400bf854f7.svg",
+    "main.d78f1613.css.map": "/static/css/main.d78f1613.css.map",
+    "main.185b6d0c.js.map": "/static/js/main.185b6d0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d78f1613.css",
+    "static/js/main.185b6d0c.js"
+  ]
+}
